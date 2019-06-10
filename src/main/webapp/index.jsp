@@ -7,7 +7,7 @@
 		Name <input type="text" />
 	</p>
 	<p>
-		<input type="button" value="Click Me" onclick="alert('hi');" />
+		<input type="button" value="Click Me" onclick="alert('How Are You ?');" />
 	</p>
 
 </div>
